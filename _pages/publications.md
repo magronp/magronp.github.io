@@ -62,28 +62,28 @@ P. Magron, T. Virtanen, **Bayesian anisotropic Gaussian model for audio source s
 [Paper](https://hal.archives-ouvertes.fr/hal-01632081) [Slides](/files/2018_icassp.pdf) [Demo](/demos/icassp18.html)
 
 P. Magron, J. Le Roux, T. Virtanen, **Consistent anisotropic Wiener filtering for audio source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
-[Paper](https://hal.archives-ouvertes.fr/hal-01593126) [Slides](/files/2017_waspaa_caw.pdf) [Code](/files/caw.tar.gz)
+[Paper](https://hal.archives-ouvertes.fr/hal-01593126) [Slides](/files/2017_waspaa_caw.pdf) [Code](/files/2017_waspaa_caw.zip)
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF for robust nonnegative source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
-[Paper](https://hal.archives-ouvertes.fr/hal-01548488) [Slides](/files/2017_waspaa_levy.pdf) [Code](/files/levyNMF.m) [Sounds](/files/levyNMF_sounds.tar.gz)
+[Paper](https://hal.archives-ouvertes.fr/hal-01548488) [Slides](/files/2017_waspaa_levy.pdf) [Code and sounds](/files/2017_levy.zip)
 
 P. Magron, R. Badeau, B. David, **Phase-dependent anisotropic Gaussian model foraudio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2017.
 [Paper](https://hal.archives-ouvertes.fr/hal-01416355) [Poster](/files/2017_icassp.pdf) [Demo](/demos/icassp17.html)
 
 P. Magron, R. Badeau, B. David, **Complex NMF under phase constraints based on signal modeling: application to audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2016.
-[Paper](https://hal.archives-ouvertes.fr/hal-01248013) [Slides](/files/2016_icassp.pdf) [Code](/files/cnmf_phase_matlab.7z) [Sounds](/files/cnmf_phase_sounds.7z)
+[Paper](https://hal.archives-ouvertes.fr/hal-01248013) [Slides](/files/2016_icassp.pdf) [Code and sounds](/files/2016_icassp.zip)
 
 F.-R. Stoter, A. Liutkus, R. Badeau, B. Edler, P. Magron, **Common fate models for unison source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2016.
 [Paper](https://hal.archives-ouvertes.fr/hal-01248012) [Demo](http://www.loria.fr/%7Ealiutkus/cfm/)
 
 P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms based on a model of repeated audio events**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2015.
-[Paper](https://hal.archives-ouvertes.fr/hal-01219637) [Poster](/files/2015_waspaa.pdf) [Code](/files/ph_rep_matlab.7z) [Sounds](/files/ph_rep_sounds.7z)
+[Paper](https://hal.archives-ouvertes.fr/hal-01219637) [Poster](/files/2015_waspaa.pdf) [Code and sounds](/files/2015_waspaa.zip)
 
 P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms with linear unwrapping: application to audio signal restoration**, Proc. of the European Signal Processing Conference (EUSIPCO), August 2015.
-[Paper](https://hal.archives-ouvertes.fr/hal-01219637) [Poster](/files/2015_eusipco.pdf) [Code](/files/ph_unwrapping_matlab.7z) [Sounds](/files/ph_unwrapping_sounds.7z)
+[Paper](https://hal.archives-ouvertes.fr/hal-01219637) [Poster](/files/2015_eusipco.pdf) [Code and sounds](/files/2015_eusipco.zip)
 
 P. Magron, R. Badeau, B. David, **Phase recovery in NMF for audio sourceseparation: an insightful benchmark**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), April 2015
-[Paper](https://hal.archives-ouvertes.fr/hal-01110032) [Slides](/files/2015_icassp.pdf) [Code](/files/benchmark_matlab.7z) [Sounds](/files/benchmark_sounds.7z)
+[Paper](https://hal.archives-ouvertes.fr/hal-01110032) [Slides](/files/2015_icassp.pdf) [Code and sounds](/files/2015_icassp.zip)
 
 P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis of Siku and closed pipe flutes**, Proc. of the International Symposium on Musical Acoustics (ISMA), July 2014.
 [Paper](https://hal.archives-ouvertes.fr/hal-01323119) [Poster](/files/2014_isma.pdf)
@@ -91,7 +91,7 @@ P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis o
 ## National Conference (in French)
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF : un modèle robuste de séparation de sources non-négatives**, Actes du XXVIe Colloque GRETSI, September 2017.
-[Paper](https://hal.archives-ouvertes.fr/hal-01540484) [Slides](/files/2017_gretsi.pdf) [Code](/files/levyNMF.m)
+[Paper](https://hal.archives-ouvertes.fr/hal-01540484) [Slides](/files/2017_gretsi.pdf) [Code](/files/2017_levy.zip)
 
 ## Technical reports
 
