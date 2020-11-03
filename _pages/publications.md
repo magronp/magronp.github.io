@@ -11,21 +11,39 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprint
+## Preprints
 
-{% for post in site.publications.preprint reversed %}
+{% for post in site.publi_preprint reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Journal
+## Journals
 
-{% for post in site.publications.journal reversed %}
+{% for post in site.publi_journal reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Conference
+## International Conferences
 
-{% for post in site.publications.conference reversed %}
+{% for post in site.publi_conf reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## National Conference (in French)
+
+{% for post in site.publi_confnat reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Technical reports
+
+{% for post in site.publi_techrep reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Thesis (in French)
+
+{% for post in site.publi_thesis reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
