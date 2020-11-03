@@ -19,9 +19,11 @@ author_profile: true
 
 ## Journals
 
-{% for post in site.publi_journal reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+P. Magron, T. V, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
+[Paper](https://arxiv.org/abs/1802.03156) [Code](https://github.com/magronp/complex-isnmf)
+
+P. Magron, T. V, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
+[Paper](https://arxiv.org/abs/1802.03156) [Code](https://github.com/magronp/complex-isnmf)
 
 ## International Conferences
 
