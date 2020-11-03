@@ -177,30 +177,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publi_preprint:
-    output: true
-    permalink: /:collection/:path/
-  publi_journal:
-    output: true
-    permalink: /:collection/:path/
-  publi_conf:
-    output: true
-    permalink: /:collection/:path/
-  publi_confnat:
-    output: true
-    permalink: /:collection/:path/
-  publi_techrep:
-    output: true
-    permalink: /:collection/:path/
-  publi_thesis:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -254,9 +230,10 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
