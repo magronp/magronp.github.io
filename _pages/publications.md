@@ -19,12 +19,15 @@ author_profile: true
 
 ## Journals
 
-P. Magron, T. V, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
+P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020.
+[Paper](https://arxiv.org/abs/1911.03128) [Demo](/demos/spl20_omisi.html) [Code](https://github.com/magronp/omisi)
 
-[Paper](https://arxiv.org/abs/1802.03156) [Code](https://github.com/magronp/complex-isnmf)
+P. Magron, T. Virtanen, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
+[Paper](https://arxiv.org/abs/1802.03156) [Demo](/demos/taslp19_cisnmf.html) [Code](https://github.com/magronp/complex-isnmf)
 
-P. Magron, T. V, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
-[Paper](https://arxiv.org/abs/1802.03156) [Code](https://github.com/magronp/complex-isnmf)
+P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.26, no. 6, pp. 1095-1105, June 2018.
+[Paper](https://arxiv.org/abs/1608.01953) [Demo](/demos/taslp18_puiter.html) [Code](https://github.com/magronp/pu-iter)
+
 
 ## International Conferences
 
