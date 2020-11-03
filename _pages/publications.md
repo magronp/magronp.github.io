@@ -91,7 +91,7 @@ P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis o
 ## National Conference (in French)
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF : un modèle robuste de séparation de sources non-négatives**, Actes du XXVIe Colloque GRETSI, September 2017.
-[[Paper](https://hal.archives-ouvertes.fr/hal-01540484) [[Slides](/files/2017_gretsi.pdf) [[Code](/files/2017_levy.zip)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01540484) [[Slides]](/files/2017_gretsi.pdf) [[Code]](/files/2017_levy.zip)
 
 ## Technical reports
 
