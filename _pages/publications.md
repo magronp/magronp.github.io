@@ -12,7 +12,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 ## Preprints
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, submitted to the IEEE Journal on Selected Topics in Signal Processing, January 2021.
-[Paper](https://arxiv.org/abs/2010.00392) [Demo](/demos/jstsp21.html)
+[[Paper]](https://arxiv.org/abs/2010.00392) [Sounds](/demos/jstsp21.html)
 
 P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, submitted to IEEE ICASSP, June 2021.
 [Paper](https://arxiv.org/abs/2010.10276)
@@ -23,13 +23,13 @@ P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman di
 ## Journals
 
 P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020.
-[Paper](https://arxiv.org/abs/1911.03128) [Demo](/demos/spl20_omisi.html) [Code](https://github.com/magronp/omisi)
+[Paper](https://arxiv.org/abs/1911.03128) [Sounds](/demos/spl20_omisi.html) [Code](https://github.com/magronp/omisi)
 
 P. Magron, T. Virtanen, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
-[Paper](https://arxiv.org/abs/1802.03156) [Demo](/demos/taslp19_cisnmf.html) [Code](https://github.com/magronp/complex-isnmf)
+[Paper](https://arxiv.org/abs/1802.03156) [Sounds](/demos/taslp19_cisnmf.html) [Code](https://github.com/magronp/complex-isnmf)
 
 P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.26, no. 6, pp. 1095-1105, June 2018.
-[Paper](https://arxiv.org/abs/1608.01953) [Demo](/demos/taslp18_puiter.html) [Code](https://github.com/magronp/pu-iter)
+[Paper](https://arxiv.org/abs/1608.01953) [Sounds](/demos/taslp18_puiter.html) [Code](https://github.com/magronp/pu-iter)
 
 ## International Conferences
 
@@ -44,7 +44,7 @@ K. Drossos, P. Magron, T. Virtanen, **Unsupervised adversarial domain adaptation
 [Paper](https://arxiv.org/abs/1904.10678) [Poster](/files/2019_waspaa.pdf) [Code](https://github.com/dr-costas/undaw)
 
 K. Drossos, P. Magron, S. Mimilakis, T. Virtanen, **Harmonic-percussive source separation with deep neural networks and phase recovery**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018.
-[Paper](https://hal.archives-ouvertes.fr/hal-01812225) [Poster](/files/2018_iwaenc_hpss.pdf) [Demo](http://arg.cs.tut.fi/demo/hpss-madtwinnet) [Code](https://github.com/magronp/phase-hpss)
+[Paper](https://hal.archives-ouvertes.fr/hal-01812225) [Poster](/files/2018_iwaenc_hpss.pdf) [Sounds](http://arg.cs.tut.fi/demo/hpss-madtwinnet) [Code](https://github.com/magronp/phase-hpss)
 
 P. Magron, T. Virtanen, **Towards complex nonnegative matrix factorization with the beta-divergence**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018. (<span style="color:red">Best paper award</span>)
 [Paper](https://hal.archives-ouvertes.fr/hal-01779664) [Slides](/files/2018_iwaenc_betadiv.pdf) [Code](https://github.com/magronp/complex-beta-nmf)
@@ -56,10 +56,10 @@ P. Magron, T. Virtanen, **Expectation-maximization algorithms for Itakura-Saito 
 [Paper](https://hal.archives-ouvertes.fr/hal-01632082) [Poster](/files/2018_interspeech_emisnmf.pdf) [Code](https://github.com/magronp/em-isnmf)
 
 P. Magron, K. Drossos, S. Mimilakis, T. Virtanen, **Reducing interference with phase recovery in DNN-based monaural singing voice separation**, Proc. of Interspeech, September 2018.
-[Paper](https://hal.archives-ouvertes.fr/hal-01741278) [Poster](/files/2018_interspeech_dnnphase.pdf) [Demo](http://arg.cs.tut.fi/demo/phase-madtwinnet) [Code](https://github.com/magronp/phase-madtwinnet)
+[Paper](https://hal.archives-ouvertes.fr/hal-01741278) [Poster](/files/2018_interspeech_dnnphase.pdf) [Sounds](http://arg.cs.tut.fi/demo/phase-madtwinnet) [Code](https://github.com/magronp/phase-madtwinnet)
 
 P. Magron, T. Virtanen, **Bayesian anisotropic Gaussian model for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), April 2018.
-[Paper](https://hal.archives-ouvertes.fr/hal-01632081) [Slides](/files/2018_icassp.pdf) [Demo](/demos/icassp18.html)
+[Paper](https://hal.archives-ouvertes.fr/hal-01632081) [Slides](/files/2018_icassp.pdf) [Sounds](/demos/icassp18.html)
 
 P. Magron, J. Le Roux, T. Virtanen, **Consistent anisotropic Wiener filtering for audio source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
 [Paper](https://hal.archives-ouvertes.fr/hal-01593126) [Slides](/files/2017_waspaa_caw.pdf) [Code](/files/2017_waspaa_caw.zip)
@@ -68,13 +68,13 @@ P. Magron, R. Badeau, A. Liutkus, **Lévy NMF for robust nonnegative source sepa
 [Paper](https://hal.archives-ouvertes.fr/hal-01548488) [Slides](/files/2017_waspaa_levy.pdf) [Code and sounds](/files/2017_levy.zip)
 
 P. Magron, R. Badeau, B. David, **Phase-dependent anisotropic Gaussian model foraudio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2017.
-[Paper](https://hal.archives-ouvertes.fr/hal-01416355) [Poster](/files/2017_icassp.pdf) [Demo](/demos/icassp17.html)
+[Paper](https://hal.archives-ouvertes.fr/hal-01416355) [Poster](/files/2017_icassp.pdf) [Sounds](/demos/icassp17.html)
 
 P. Magron, R. Badeau, B. David, **Complex NMF under phase constraints based on signal modeling: application to audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2016.
 [Paper](https://hal.archives-ouvertes.fr/hal-01248013) [Slides](/files/2016_icassp.pdf) [Code and sounds](/files/2016_icassp.zip)
 
 F.-R. Stoter, A. Liutkus, R. Badeau, B. Edler, P. Magron, **Common fate models for unison source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2016.
-[Paper](https://hal.archives-ouvertes.fr/hal-01248012) [Demo](http://www.loria.fr/%7Ealiutkus/cfm/)
+[Paper](https://hal.archives-ouvertes.fr/hal-01248012) [Sounds](http://www.loria.fr/%7Ealiutkus/cfm/)
 
 P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms based on a model of repeated audio events**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2015.
 [Paper](https://hal.archives-ouvertes.fr/hal-01219637) [Poster](/files/2015_waspaa.pdf) [Code and sounds](/files/2015_waspaa.zip)
