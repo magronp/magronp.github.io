@@ -1,9 +1,8 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+authors: "Patricio de la Cuadra, Paul Magron, Roman Auvray, Felipe Meneses and Benoit Fabre"
+title: "Sound synthesis of Siku and closed pipe flutes"
+collection: conference
+date: 2014-07
+venue: 'Proc. of the International Symposium on Musical Acoustics (ISMA)'
+paperurl: 'https://hal.archives-ouvertes.fr/hal-01323119'
 ---
