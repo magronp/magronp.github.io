@@ -17,7 +17,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Preprints
 
-P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, submitted to the IEEE Journal on Selected Topics in Signal Processing, January 2021.
+P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, submitted to the IEEE Journal of Selected Topics in Signal Processing, January 2021.
 [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html)
 
 P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, submitted to IEEE ICASSP, June 2021.
