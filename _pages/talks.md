@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style type="text/css">
+  body{
+  font-size: 11pt;
+}
+</style>
+
 {% include base_path %}
 
 The talks and presentations given in conferences and workshops, along with the corresponding material (slides or posters) are listed in the [Publication](/pages/_publications) page.
