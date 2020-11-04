@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style type="text/css">
+  body{
+  font-size: 9pt;
+}
+</style>
+
 I am a postdoctoral researcher at the [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/), within the [Signals and Communications](http://sc.enseeiht.fr/) group, located in Toulouse, France. I work under the supervision of [Cédric Févotte](https://www.irit.fr/%7ECedric.Fevotte/) as part of the ERC-funded project [FACTORY](http://projectfactory.irit.fr/) on content-based music recommendation.
 
 Research Interests
