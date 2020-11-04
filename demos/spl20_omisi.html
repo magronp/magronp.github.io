@@ -3,15 +3,16 @@
   <body>
     <div id="site_content">
       <div class="container"><!-- Features --><br>
+	      <center>
         <h1>Online spectrogram inversion for low-latency audio source separation</h1>
         <h5>Paul Magron and Tuomas Virtanen</h5>
 	<h5>IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020</h5>
-<br>
+	  <u><a href="https://arxiv.org/abs/1911.03128">[Paper]</a></u> <u><a href="https://github.com/magronp/omisi">[Code]</a></u>
+	</center>
         <p>On this page, we provide several audio excerpts that illustrate the
           speech separation experiments presented in the paper. The excerpts are
           extracted from the Danish HINT dataset and the Wall street journal dataset.
         </p>
-<p>For the code of the experiments conducted in the paper, please visit the corresponging GitHub repository: <a href="https://github.com/magronp/omisi"><img src="../images/github_icon.png" style="vertical-align: middle; padding-left:0; mrgin-left:0;"></a></p>
 <p>
 The difference is mostly noticeable in the Oracle setting (where the magnitude spectra are known). We can hear that the amplitude mask yields estimates with interference, which highlights the need for advanced phase recovery. The MISI algorithm yields estimates with very few interference, even though it operates offline.<br>
 The proposed oMISI algorithm (used here with one future frame) leads to comparable sounding quality, with the advantage of operating online (in this case the latency is 24 ms).
