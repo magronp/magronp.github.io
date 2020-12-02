@@ -41,7 +41,7 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences : application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
 low-complexity data models and Sensing Techniques (iTWIST), December 2020.
-[[Paper]](https://arxiv.org/abs/1907.08506)
+[[Paper]](https://arxiv.org/abs/2011.12818) [[Slides]](/files/2020_itwist.pdf)
 
 K. Drossos, S. Gharib, P. Magron, T. Virtanen, **Language modelling for sound event detection with teacher forcing and scheduled sampling**, Proc. of the Detection and Classification of Acoustic Scenes and Events Workshop (DCASE), October 2019.
 [[Paper]](https://arxiv.org/abs/1907.08506) [[Poster]](/files/2019_dcase.pdf) [[Code]](https://github.com/dr-costas/SEDLM)
