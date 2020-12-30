@@ -18,10 +18,10 @@ The talks and presentations given in conferences and workshops, along with the c
 ## Invited seminars
 
 **Probabilistic modeling of the phase for audio source separation**, LORIA - INRIA Nancy-Grand est (Nancy, France), October 2018.
-[Slides](/files/2018_nancy.pdf)
+[Slides](/files/2018_inria_nancy.pdf)
 
 **STFT phase recovery based on sinusoidal modeling for audio source separation**, IRIT (Toulouse, France), September 2017.
-[Slides](/files/2017_irit.pdf)
+[Slides](/files/2017_irit_toulouse.pdf)
 
 
 ## Summer school
