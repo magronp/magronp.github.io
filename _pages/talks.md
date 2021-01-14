@@ -30,4 +30,4 @@ The talks and presentations given in conferences and workshops, along with the c
 ## Summer school
 
 **Lévy NMF for robust nonnegative source separation**, GRETSI summer school in Image and Signal processing, (Peyresq, France), July 2016.
-Slides updated for the [[GRETSI]](/files/2017_gretsi.pdf) and [[WASPAA]](/files/2017_waspaa_levy.pdf) talks
+Slides updated for the [GRETSI](/files/2017_gretsi.pdf) and [WASPAA](/files/2017_waspaa_levy.pdf) talks
