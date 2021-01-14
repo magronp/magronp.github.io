@@ -17,6 +17,9 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
+**Complex-valued and hybrid models for audio processing**, Multispeech team - INRIA Nancy-Grand est (Nancy, France), January 2021.
+[Slides](/files/2021_inria_nancy.pdf)
+
 **Probabilistic modeling of the phase for audio source separation**, LORIA - INRIA Nancy-Grand est (Nancy, France), October 2018.
 [Slides](/files/2018_inria_nancy.pdf)
 
