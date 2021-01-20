@@ -17,7 +17,7 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
-**Complex-valued and hybrid models for audio processing** [[Slides]](/files/2021_inria.pdf)
+**Complex-valued and hybrid models for audio processing** [[Slides]](/files/2021_inria_nancy.pdf)
 * Perception team - INRIA Grenoble - Rhône-ALpes (Grenoble, France), February 2021.
 * Multispeech team - INRIA Nancy - Grand est (Nancy, France), January 2021.
 
