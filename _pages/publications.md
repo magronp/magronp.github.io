@@ -86,7 +86,7 @@ P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms based on 
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01219637) [[Poster]](/files/2015_waspaa.pdf) [[Code and sounds]](/files/2015_waspaa.zip)
 
 P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms with linear unwrapping: application to audio signal restoration**, Proc. of the European Signal Processing Conference (EUSIPCO), August 2015.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01219637) [[Poster]](/files/2015_eusipco.pdf) [[Code and sounds]](/files/2015_eusipco.zip)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01206804) [[Poster]](/files/2015_eusipco.pdf) [[Code and sounds]](/files/2015_eusipco.zip)
 
 P. Magron, R. Badeau, B. David, **Phase recovery in NMF for audio sourceseparation: an insightful benchmark**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), April 2015
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01110032) [[Slides]](/files/2015_icassp.pdf) [[Code and sounds]](/files/2015_icassp.zip)
