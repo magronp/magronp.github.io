@@ -15,14 +15,6 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-## Preprints
-
-P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, submitted to IEEE ICASSP, June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10276)
-
-P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, submitted to IEEE ICASSP, June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10255)
-
 ## Journals
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, January 2021.
@@ -38,6 +30,12 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 [[Paper]](https://arxiv.org/abs/1608.01953) [[Sounds]](/demos/taslp18_puiter.html) [[Code]](https://github.com/magronp/pu-iter)
 
 ## International Conferences
+
+P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
+[[Paper]](https://arxiv.org/abs/2010.10276)
+
+P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
+[[Paper]](https://arxiv.org/abs/2010.10255)
 
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences : application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
 low-complexity data models and Sensing Techniques (iTWIST), December 2020.
