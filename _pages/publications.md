@@ -20,7 +20,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, January 2021.
 [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
 
-P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020.
+P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020. (<span style="color:red">Presented at ICASSP 2021</span>)
 [[Paper]](https://arxiv.org/abs/1911.03128) [[Sounds]](/demos/spl20_omisi.html) [[Code]](https://github.com/magronp/omisi)
 
 P. Magron, T. Virtanen, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.27, no. 1, pp. 20-31, January 2019.
@@ -32,10 +32,10 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 ## International Conferences
 
 P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10276)
+[[Paper]](https://arxiv.org/abs/2010.10276) [[Code]](https://github.com/magronp/mus-reco-avd)
 
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10255)
+[[Paper]](https://arxiv.org/abs/2010.10255) [[Code]](https://github.com/magronp/bregmisi)
 
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences : application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
 low-complexity data models and Sensing Techniques (iTWIST), December 2020.
