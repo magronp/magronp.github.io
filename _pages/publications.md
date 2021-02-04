@@ -106,7 +106,7 @@ P. Magron, R. Badeau, B. David, **An iterative algorithm for recovering the phas
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01325625)
 
 P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms with linear unwrapping: application to audio signal restoration**, Télécom ParisTech technical report, June 2015.
-[[Paper]](/files/2015_PU_techrep.pdf)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-02287339)
 
 ## Thesis (in French)
 
