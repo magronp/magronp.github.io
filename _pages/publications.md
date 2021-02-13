@@ -90,7 +90,7 @@ P. Magron, R. Badeau, B. David, **Phase recovery in NMF for audio sourceseparati
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01110032) [[Slides]](/files/2015_icassp.pdf) [[Code and sounds]](/files/2015_icassp.zip)
 
 P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis of Siku and closed pipe flutes**, Proc. of the International Symposium on Musical Acoustics (ISMA), July 2014.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01323119) [[Poster]](/files/2014_isma.pdf) [Code]](https://github.com/timowest/flauta) 
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01323119) [[Poster]](/files/2014_isma.pdf) [[Code]](https://github.com/timowest/flauta) 
 
 ## National Conference (in French)
 
