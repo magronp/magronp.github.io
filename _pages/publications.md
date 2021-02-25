@@ -15,6 +15,11 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
+## Preprints
+
+P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, submitted in the ACM Transactions on Information Systems (TOIS).
+[[Paper]](https://arxiv.org/abs/2102.12369)
+
 ## Journals
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021.
