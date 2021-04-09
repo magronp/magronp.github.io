@@ -42,7 +42,7 @@ P. Magron, C. Févotte, **Leveraging the structure of musical preference in cont
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
 [[Paper]](https://arxiv.org/abs/2010.10255) [[Code]](https://github.com/magronp/bregmisi)
 
-P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences: application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
+P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences: application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
 low-complexity data models and Sensing Techniques (iTWIST), December 2020.
 [[Paper]](https://arxiv.org/abs/2011.12818) [[Slides]](/files/2020_itwist.pdf)
 
