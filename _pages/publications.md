@@ -25,8 +25,8 @@ P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021.
 [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
 
-P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020. (<span style="color:red">Presented at ICASSP 2021</span>)
-[[Paper]](https://arxiv.org/abs/1911.03128) [[Sounds]](/demos/spl20_omisi.html) [[Code]](https://github.com/magronp/omisi)
+P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020. [[Paper]](https://arxiv.org/abs/1911.03128) [[Sounds]](/demos/spl20_omisi.html) [[Code]](https://github.com/magronp/omisi)
+<span style="color:red">Presented at ICASSP 2021</span> [[Slides]](/files/2021_icassp_omisi_slides.pdf) [[Poster]](/files/2021_icassp_omisi_poster.pdf)
 
 P. Magron, T. Virtanen, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 27, no. 1, pp. 20-31, January 2019.
 [[Paper]](https://arxiv.org/abs/1802.03156) [[Sounds]](/demos/taslp19_cisnmf.html) [[Code]](https://github.com/magronp/complex-isnmf)
@@ -37,10 +37,10 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 ## International Conferences
 
 P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10276) [[Code]](https://github.com/magronp/mus-reco-avd)
+[[Paper]](https://arxiv.org/abs/2010.10276) [[Code]](https://github.com/magronp/mus-reco-avd) [[Slides]](/files/2021_icassp_avd_slides.pdf) [[Poster]](/files/2021_icassp_avd_poster.pdf)
 
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10255) [[Code]](https://github.com/magronp/bregmisi)
+[[Paper]](https://arxiv.org/abs/2010.10255) [[Code]](https://github.com/magronp/bregmisi) [[Slides]](/files/2021_icassp_bregmisi_slides.pdf) [[Poster]](/files/2021_icassp_bregmisi_poster.pdf)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences: application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
 low-complexity data models and Sensing Techniques (iTWIST), December 2020.
