@@ -17,6 +17,9 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
+**Phase-aware audio source separation**, Signal Processing research group - Hamburg University (Hamburg, Germnay), May 2021.
+[[Slides]](/files/2021_sp_hamburg.pdf)
+
 **Complex-valued and hybrid models for audio processing** 
 * Perception team - INRIA Grenoble - Rhône-ALpes (Grenoble, France), February 2021. [[Slides]](/files/2021_inria_grenoble.pdf)
 * Multispeech team - INRIA Nancy - Grand est (Nancy, France), January 2021. [[Slides]](/files/2021_inria_nancy.pdf)
