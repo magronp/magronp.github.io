@@ -14,7 +14,8 @@ redirect_from:
 }
 </style>
 
-I am a postdoctoral researcher at the [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/), within the [Signals and Communications](http://sc.enseeiht.fr/) group, located in Toulouse, France. I work under the supervision of [Cédric Févotte](https://www.irit.fr/%7ECedric.Fevotte/) as part of the ERC-funded project [FACTORY](http://projectfactory.irit.fr/) on content-based music recommendation.
+I am a tenured research scientist (Chargé de Recherche) within the project-team [MULTISPEECH](https://team.inria.fr/multispeech/) (Nancy, France). This is a joint research team of [Inria Nancy](https://www.inria.fr/fr/centre-inria-nancy-grand-est) (my employer), [Université of Lorraine](https://welcome.univ-lorraine.fr/en/) and [CNRS](http://www.cnrs.fr/) within the mixed research unit [LORIA](https://www.loria.fr/en/) (UMR 7503).
+
 
 Research Interests
 ======
@@ -26,6 +27,10 @@ Research Interests
 Short Bio
 ======
 
-I graduated from the École des Ponts ParisTech (Champs-sur-Marne, France), and obtained the Master’s degree in Acoustics, Signal Processing, and Computer Science applied to Music from the Université Pierre et Marie Curie (Paris, France) in 2013. From October 2013 to December 2016, I was a Ph.D. student at Télécom ParisTech (Paris, France) within the [Image, Data, Signal](http://www.ids.telecom-paristech.fr) department, under the supervision of [Roland Badeau](http://perso.telecom-paristech.fr/%7Erbadeau/) and [Bertrand David](http://perso.telecom-paristech.fr/%7Ebedavid/). From January 2017 to August 2019, I was a postdoctoral researcher at Tampere University (Tampere, Finland) within the [Audio Research Group](http://arg.cs.tut.fi/), under the supervision of [Tuomas Virtanen](http://www.cs.tut.fi/%7Etuomasv/).
+I graduated from the École des Ponts ParisTech (Champs-sur-Marne, France), and obtained the Master’s degree in Acoustics, Signal Processing, and Computer Science applied to Music from the Université Pierre et Marie Curie (Paris, France) in 2013.
+From October 2013 to December 2016, I was a Ph.D. student at Télécom ParisTech (Paris, France) within the [Image, Data, Signal](http://www.ids.telecom-paristech.fr) department, under the supervision of [Roland Badeau](http://perso.telecom-paristech.fr/%7Erbadeau/) and [Bertrand David](http://perso.telecom-paristech.fr/%7Ebedavid/).
+From January 2017 to August 2019, I was a postdoctoral researcher at Tampere University (Tampere, Finland) within the [Audio Research Group](http://arg.cs.tut.fi/), under the supervision of [Tuomas Virtanen](http://www.cs.tut.fi/%7Etuomasv/).
+From October 2019 to September 2021, I was a postdoctoral researcher at the [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/), within the [Signals and Communications](http://sc.enseeiht.fr/) group, located in Toulouse, France. I worked under the supervision of [Cédric Févotte](https://www.irit.fr/%7ECedric.Fevotte/) as part of the ERC-funded project [FACTORY](http://projectfactory.irit.fr/).
+
 
 Here is my CV in [French](/files/cv_fr.pdf) and in [English](/files/cv_en.pdf).
