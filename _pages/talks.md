@@ -17,7 +17,7 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
-**Phase-aware audio source separation**, Signal Processing research group - Hamburg University (Hamburg, Germnay), May 2021.
+**Phase-aware audio source separation**, Signal Processing research group - Hamburg University (Hamburg, Germany), May 2021.
 [[Slides]](/files/2021_sp_hamburg.pdf)
 
 **Complex-valued and hybrid models for audio processing** 
