@@ -17,6 +17,13 @@ redirect_from:
 I am a tenured research scientist (Chargé de Recherche) within the project-team [MULTISPEECH](https://team.inria.fr/multispeech/) (Nancy, France). This is a joint research team of [Inria Nancy](https://www.inria.fr/fr/centre-inria-nancy-grand-est) (my employer), [Université of Lorraine](https://welcome.univ-lorraine.fr/en/) and [CNRS](http://www.cnrs.fr/) within the mixed research unit [LORIA](https://www.loria.fr/en/) (UMR 7503).
 
 
+M2 internships
+======
+
+[Deep latent feature factorization for unsupervised speech separation ](https://team.inria.fr/multispeech/deep-latent-feature-factorization-for-unsupervised-speech-separation/)
+[Repairing audio signals using compact phase-aware models](https://team.inria.fr/multispeech/m2_internship_phase/)
+
+
 Research Interests
 ======
 
