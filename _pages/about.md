@@ -21,6 +21,7 @@ M2 internships
 ======
 
 [Deep latent feature factorization for unsupervised speech separation ](https://team.inria.fr/multispeech/deep-latent-feature-factorization-for-unsupervised-speech-separation/)
+
 [Repairing audio signals using compact phase-aware models](https://team.inria.fr/multispeech/m2_internship_phase/)
 
 
