@@ -17,21 +17,21 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
-**Phase-aware audio source separation**, Signal Processing research group - Hamburg University (Hamburg, Germany), May 2021.
-[[Slides]](/files/2021_sp_hamburg.pdf)
+**Phase-aware audio source separation**
+* Signal Processing research group - Hamburg University (Hamburg, Germany), May 2021. [[Slides]](/files/2021_sp_hamburg.pdf)
 
 **Complex-valued and hybrid models for audio processing** 
 * Perception team - INRIA Grenoble - Rhône-ALpes (Grenoble, France), February 2021. [[Slides]](/files/2021_inria_grenoble.pdf)
 * Multispeech team - INRIA Nancy - Grand est (Nancy, France), January 2021. [[Slides]](/files/2021_inria_nancy.pdf)
 
-**Probabilistic modeling of the phase for audio source separation**, LORIA - INRIA Nancy-Grand est (Nancy, France), October 2018.
-[[Slides]](/files/2018_inria_nancy.pdf)
+**Probabilistic modeling of the phase for audio source separation**
+* LORIA (Nancy, France), October 2018. [[Slides]](/files/2018_inria_nancy.pdf)
 
-**STFT phase recovery based on sinusoidal modeling for audio source separation**, IRIT (Toulouse, France), September 2017.
-[[Slides]](/files/2017_irit_toulouse.pdf)
+**STFT phase recovery based on sinusoidal modeling for audio source separation**
+* IRIT (Toulouse, France), September 2017. [[Slides]](/files/2017_irit_toulouse.pdf)
 
 
 ## Summer school
 
-**Lévy NMF for robust nonnegative source separation**, GRETSI summer school in Image and Signal processing, (Peyresq, France), July 2016.
-Slides updated for the [GRETSI](/files/2017_gretsi.pdf) and [WASPAA](/files/2017_waspaa_levy.pdf) talks
+**Lévy NMF for robust nonnegative source separation**
+* GRETSI summer school in Image and Signal processing, (Peyresq, France), July 2016. Adapted from the content of the slides from [GRETSI](/files/2017_gretsi.pdf) and [WASPAA](/files/2017_waspaa_levy.pdf) 2017 talks.
