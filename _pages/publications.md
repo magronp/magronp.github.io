@@ -15,7 +15,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-## In review
+## Under review
 
 P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2102.12369)
 
