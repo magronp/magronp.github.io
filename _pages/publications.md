@@ -15,10 +15,13 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
+## In review
+
+P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2102.12369)
+
 ## Journals
 
-P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021.
-[[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
+P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021. [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
 
 P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020. [[Paper]](https://arxiv.org/abs/1911.03128) [[Sounds]](/demos/spl20_omisi.html) [[Code]](https://github.com/magronp/omisi)
 <span style="color:red">Presented at ICASSP 2021</span> [[Slides]](/files/2021_icassp_omisi_slides.pdf) [[Poster]](/files/2021_icassp_omisi_poster.pdf)
