@@ -20,7 +20,7 @@ I am a tenured research scientist (Chargé de Recherche) within the project-team
 PhD offer
 ======
 
-[Nongaussian models for deep learning based audio signal processing](https://recrutement.inria.fr/public/classic/en/offres/2022-04676)
+**Nongaussian models for deep learning based audio signal processing**, with E. Vicent (see details in French and English [here](https://recrutement.inria.fr/public/classic/en/offres/2022-04676))
 <!---   -->
 
 Research Interests
