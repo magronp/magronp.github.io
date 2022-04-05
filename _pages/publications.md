@@ -15,11 +15,13 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-## Under review
+## Preprints
 
 P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2102.12369)
 
-M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, submitted to Interspeech [[Paper]](https://arxiv.org/abs/2203.15758)
+M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, submitted to Interspeech. [[Paper]](https://arxiv.org/abs/2203.15758)
+
+P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.01360)
 
 ## Journals
 
