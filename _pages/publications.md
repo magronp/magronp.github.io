@@ -23,6 +23,8 @@ M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational A
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.01360)
 
+P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, submitted in a journal. [[Paper]](https://hal.inria.fr/hal-03647772)
+
 ## Journals
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021. [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
