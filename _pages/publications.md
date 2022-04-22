@@ -23,7 +23,7 @@ M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational A
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.01360)
 
-P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, submitted in a journal. [[Paper]](https://hal.inria.fr/hal-03647772)
+P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.09741)
 
 ## Journals
 
