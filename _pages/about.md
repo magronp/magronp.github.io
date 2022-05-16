@@ -21,7 +21,7 @@ I am a tenured research scientist (Chargé de Recherche) within the project-team
 PhD offer
 ======
 
-**Multichannel Speech Enhancement for Patients with Auditory Neuropathy Spectrum Disorders**, with R. Serizel (details in French and English [here](http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/iaem/offres-de-these/rehaussement-de-la-parole-multicanal-pour-patiens))
+**Multichannel Speech Enhancement for Patients with Auditory Neuropathy Spectrum Disorders**, with R. Serizel. Details (in French and English) and application [here](https://www.adum.fr/as/ed/voirproposition.pl?site=adumR&matricule_prop=43498#version))
 <!---   
 **Nongaussian models for deep learning based audio signal processing**, with E. Vincent (see details in French and English [here](https://recrutement.inria.fr/public/classic/en/offres/2022-04676))
 -->
