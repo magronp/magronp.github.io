@@ -22,6 +22,7 @@ P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-
 M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, submitted to Interspeech. [[Paper]](https://arxiv.org/abs/2203.15758)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.01360)
+<span style="color:red">Presented at GdR ISIS 2022</span> [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
 
 P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.09741)
 
