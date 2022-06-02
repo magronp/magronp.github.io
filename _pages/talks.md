@@ -17,6 +17,9 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
+**Contributions to phase-aware audio source separation**
+* ADASP group - Télécom Paris (Paris, France), June 2022. [[Slides]](/files/2022_telecom.pdf)
+
 **Phase-aware audio source separation**
 * Signal Processing research group - Hamburg University (Hamburg, Germany), May 2021. [[Slides]](/files/2021_sp_hamburg.pdf)
 
@@ -28,7 +31,7 @@ The talks and presentations given in conferences and workshops, along with the c
 * LORIA (Nancy, France), October 2018. [[Slides]](/files/2018_inria_nancy.pdf)
 
 **STFT phase recovery based on sinusoidal modeling for audio source separation**
-* IRIT (Toulouse, France), September 2017. [[Slides]](/files/2017_irit_toulouse.pdf)
+* Signal & Communications group - IRIT (Toulouse, France), September 2017. [[Slides]](/files/2017_irit_toulouse.pdf)
 
 
 ## Summer school
