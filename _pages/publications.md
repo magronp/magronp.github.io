@@ -26,12 +26,12 @@ P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative 
 ## Journals
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/phvial/LearningProxPR)
-<span style="color:red">Presented at GdR ISIS 2022</span> [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
+Presented at GdR ISIS 2022 [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021. [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
 
 P. Magron, T. Virtanen, **Online Spectrogram Inversion for Low-Latency Audio Source Separation**, IEEE Signal Processing Letters, Vol. 27, pp. 306-310, 2020. [[Paper]](https://arxiv.org/abs/1911.03128) [[Sounds]](/demos/spl20_omisi.html) [[Code]](https://github.com/magronp/omisi)
-<span style="color:red">Presented at ICASSP 2021</span> [[Slides]](/files/2021_icassp_omisi_slides.pdf) [[Poster]](/files/2021_icassp_omisi_poster.pdf)
+Presented at ICASSP 2021 [[Slides]](/files/2021_icassp_omisi_slides.pdf) [[Poster]](/files/2021_icassp_omisi_poster.pdf)
 
 P. Magron, T. Virtanen, **Complex ISNMF: a phase-aware model for monaural audio source separation**, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 27, no. 1, pp. 20-31, January 2019.
 [[Paper]](https://arxiv.org/abs/1802.03156) [[Sounds]](/demos/taslp19_cisnmf.html) [[Code]](https://github.com/magronp/complex-isnmf)
