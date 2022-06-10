@@ -60,7 +60,7 @@ K. Drossos, P. Magron, T. Virtanen, **Unsupervised adversarial domain adaptation
 K. Drossos, P. Magron, S. Mimilakis, T. Virtanen, **Harmonic-percussive source separation with deep neural networks and phase recovery**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01812225) [[Poster]](/files/2018_iwaenc_hpss.pdf) [[Sounds]](http://arg.cs.tut.fi/demo/hpss-madtwinnet) [[Code]](https://github.com/magronp/phase-hpss)
 
-P. Magron, T. Virtanen, **Towards complex nonnegative matrix factorization with the beta-divergence**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018. (<span style="color:red">Best paper award</span>)
+P. Magron, T. Virtanen, **Towards complex nonnegative matrix factorization with the beta-divergence**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018. <span style="color:red">Best paper award</span>
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01779664) [[Slides]](/files/2018_iwaenc_betadiv.pdf) [[Code]](https://github.com/magronp/complex-beta-nmf)
 
 P. Magron, T. Virtanen, **On modeling the STFT phase of audio signals with the von Mises distribution**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018.
