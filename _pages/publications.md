@@ -19,8 +19,6 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2102.12369)
 
-M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, submitted to Interspeech. [[Paper]](https://arxiv.org/abs/2203.15758)
-
 P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2204.09741)
 
 ## Journals
@@ -40,6 +38,8 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 [[Paper]](https://arxiv.org/abs/1608.01953) [[Sounds]](/demos/taslp18_puiter.html) [[Code]](https://github.com/magronp/pu-iter)
 
 ## International Conferences
+
+M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Proc. of Interspeech, September 2022. [[Paper]](https://arxiv.org/abs/2203.15758) [[Code]](https://gitlab.inria.fr/smostafa/sdm-vae)
 
 P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
 [[Paper]](https://arxiv.org/abs/2010.10276) [[Code]](https://github.com/magronp/mus-reco-avd) [[Slides]](/files/2021_icassp_avd_slides.pdf) [[Poster]](/files/2021_icassp_avd_poster.pdf)
