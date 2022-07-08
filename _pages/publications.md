@@ -24,9 +24,9 @@ P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-
 
 ## Journals
 
-P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/phvial/NMF-binary)
+P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/magronp/NMF-binary)
 
-P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/magronp/LearningProxPR)
+P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/phvial/LearningProxPR)
 Presented at GdR ISIS 2022 [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021. [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
