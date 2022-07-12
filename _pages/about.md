@@ -16,13 +16,12 @@ redirect_from:
 
 I am a tenured research scientist (Chargé de Recherche) within the project-team [MULTISPEECH](https://team.inria.fr/multispeech/) (Nancy, France). This is a joint research team of [Inria Nancy](https://www.inria.fr/fr/centre-inria-nancy-grand-est) (my employer), [Université of Lorraine](https://welcome.univ-lorraine.fr/en/) and [CNRS](http://www.cnrs.fr/) within the mixed research unit [LORIA](https://www.loria.fr/en/) (UMR 7503).
 
-
-
+<!---
 PhD offer
 ======
 
 **Multichannel Speech Enhancement for Patients with Auditory Neuropathy Spectrum Disorders**, with R. Serizel. Details (in French and English) and application [here](https://www.adum.fr/as/ed/voirproposition.pl?site=adumR&matricule_prop=43498#version))
-<!---   
+   
 **Nongaussian models for deep learning based audio signal processing**, with E. Vincent (see details in French and English [here](https://recrutement.inria.fr/public/classic/en/offres/2022-04676))
 -->
 
