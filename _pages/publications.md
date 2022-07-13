@@ -24,7 +24,7 @@ P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-
 
 ## Journals
 
-P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/magronp/NMF-binary)
+P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, Vol. 29, pp. 1526-1530, 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/magronp/NMF-binary)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/phvial/LearningProxPR)
 Presented at GdR ISIS 2022 [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
