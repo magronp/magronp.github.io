@@ -19,10 +19,10 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
 
-P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
-
 
 ## Journals
+
+P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, Data mining and knowledge discovery, 2022. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
 
 P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, Vol. 29, pp. 1526-1530, 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/magronp/NMF-binary)
 
