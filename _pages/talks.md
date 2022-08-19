@@ -15,8 +15,6 @@ author_profile: true
 
 The talks and presentations given in conferences and workshops, along with the corresponding material (slides or posters) are listed in the [Publications](/pages/publications) page.
 
-## Invited seminars
-
 **Phase recovery for audio demixing: contributions and perspectives**
 * Neural DSP Technologies (Helsinki, Finland), August 2022. [[Slides]](/files/2022_neuraldsp.pdf)
 
@@ -36,8 +34,5 @@ The talks and presentations given in conferences and workshops, along with the c
 **STFT phase recovery based on sinusoidal modeling for audio source separation**
 * Signal & Communications group - IRIT (Toulouse, France), September 2017. [[Slides]](/files/2017_irit_toulouse.pdf)
 
-
-## Summer school
-
 **Lévy NMF for robust nonnegative source separation**
-* GRETSI summer school in Image and Signal processing, (Peyresq, France), July 2016. Adapted from the content of the slides from [GRETSI](/files/2017_gretsi.pdf) and [WASPAA](/files/2017_waspaa_levy.pdf) 2017 talks.
+* GRETSI summer school in Image and Signal processing, (Peyresq, France), July 2016. Slides adapted from the [GRETSI](/files/2017_gretsi.pdf) and [WASPAA](/files/2017_waspaa_levy.pdf) 2017 talks.
