@@ -17,6 +17,9 @@ The talks and presentations given in conferences and workshops, along with the c
 
 ## Invited seminars
 
+**Phase recovery for audio demixing: contributions and perspectives**
+* Neural DSP Technologies (Helsinki, Finland), August 2022. [[Slides]](/files/2022_neuraldsp.pdf)
+
 **Contributions to phase-aware audio source separation**
 * ADASP group - Télécom Paris (Paris, France), June 2022. [[Slides]](/files/2022_telecom.pdf)
 
