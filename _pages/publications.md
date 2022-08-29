@@ -24,10 +24,10 @@ O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting
 
 P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, Data mining and knowledge discovery, 2022. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
 
-P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, Vol. 29, pp. 1526-1530, 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/magronp/NMF-binary)
-
-P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/phvial/LearningProxPR)
+P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, Vol. 29, pp. 1619-1623, July 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/phvial/LearningProxPR)
 Presented at GdR ISIS 2022 [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
+
+P. Magron, C. Févotte, **A majorization-minimization algorithm for nonnegative binary matrix factorization**, IEEE Signal Processing Letters, Vol. 29, pp. 1526-1530, June 2022. [[Paper]](https://arxiv.org/abs/2204.09741) [[Code]](https://github.com/magronp/NMF-binary)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences and application to audio signal recovery**, IEEE Journal of Selected Topics in Signal Processing, Vol. 15, no. 1, pp. 51-64, January 2021. [[Paper]](https://arxiv.org/abs/2010.00392) [[Sounds]](/demos/jstsp21.html) [[Code]](https://github.com/phvial/PRBregDiv)
 
@@ -44,11 +44,11 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Proc. of Interspeech, September 2022. [[Paper]](https://arxiv.org/abs/2203.15758) [[Code]](https://gitlab.inria.fr/smostafa/sdm-vae)
 
-P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
-[[Paper]](https://arxiv.org/abs/2010.10276) [[Code]](https://github.com/magronp/mus-reco-avd) [[Slides]](/files/2021_icassp_avd_slides.pdf) [[Poster]](/files/2021_icassp_avd_poster.pdf)
-
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
 [[Paper]](https://arxiv.org/abs/2010.10255) [[Code]](https://github.com/magronp/bregmisi) [[Slides]](/files/2021_icassp_bregmisi_slides.pdf) [[Poster]](/files/2021_icassp_bregmisi_poster.pdf)
+
+P. Magron, C. Févotte, **Leveraging the structure of musical preference in content-aware music recommendation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
+[[Paper]](https://arxiv.org/abs/2010.10276) [[Code]](https://github.com/magronp/mus-reco-avd) [[Slides]](/files/2021_icassp_avd_slides.pdf) [[Poster]](/files/2021_icassp_avd_poster.pdf)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Phase retrieval with Bregman divergences: application to audio signal recovery**, Proc. of the international Traveling Workshop on Interactions between
 low-complexity data models and Sensing Techniques (iTWIST), December 2020.
