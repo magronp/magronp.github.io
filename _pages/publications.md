@@ -42,7 +42,7 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 ## International Conferences
 
-M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Proc. of Interspeech, September 2022. [[Paper]](https://arxiv.org/abs/2203.15758) [[Code]](https://gitlab.inria.fr/smostafa/sdm-vae)
+M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Proc. of Interspeech, September 2022. [[Paper]](https://arxiv.org/abs/2203.15758) [[Code]](https://gitlab.inria.fr/smostafa/sdm-vae) [[Poster]](/files/2022_interspeech.pdf)
 
 P. Magron, P.-H. Vial, T. Oberlin, C. Févotte, **Phase recovery with Bregman divergences for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), June 2021.
 [[Paper]](https://arxiv.org/abs/2010.10255) [[Code]](https://github.com/magronp/bregmisi) [[Slides]](/files/2021_icassp_bregmisi_slides.pdf) [[Poster]](/files/2021_icassp_bregmisi_poster.pdf)
