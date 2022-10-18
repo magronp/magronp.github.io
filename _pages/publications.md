@@ -22,7 +22,7 @@ O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting
 
 ## Journals
 
-P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, Data mining and knowledge discovery, 2022. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
+P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, Data mining and knowledge discovery, Vol. 36, no. 5, pp. 1971-2005, September 2022. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
 
 P.-H. Vial, P. Magron, T. Oberlin, C. Févotte, **Learning the Proximity Operator in Unfolded ADMM for Phase Retrieval**, IEEE Signal Processing Letters, Vol. 29, pp. 1619-1623, July 2022. [[Paper]](https://arxiv.org/abs/2204.01360) [[Code]](https://github.com/phvial/LearningProxPR)
 Presented at GdR ISIS 2022 [[Poster]](/files/2022_gdrisis_uadmm_poster.pdf)
