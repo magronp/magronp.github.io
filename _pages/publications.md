@@ -19,6 +19,8 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
 
+L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, submitted in a conference. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/)
+
 
 ## Journals
 
