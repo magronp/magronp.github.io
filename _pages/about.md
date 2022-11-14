@@ -19,7 +19,7 @@ I am a tenured research scientist (Chargé de Recherche) within the project-team
 M2 internship offer
 ======
 
-[Dictionary learning for deep unsupervised speech separation](https://team.inria.fr/multispeech/m2internship-2023-dic_vae/)) (with M. Sadeghi). 
+[Dictionary learning for deep unsupervised speech separation](https://team.inria.fr/multispeech/m2internship-2023-dic_vae/) (with M. Sadeghi). 
 
 
 Research Interests
