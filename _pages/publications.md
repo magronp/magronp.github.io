@@ -126,7 +126,7 @@ P. Magron, R. Badeau, B. David, **Phase reconstruction of spectrograms with line
 ## Thesis (in French)
 
 P. Magron, **Reconstruction de phase par modèles de signaux : application à la séparation de sources audio**, Ph.D. Thesis, Télécom ParisTech, December 2016.
-[[Thesis]](https://hal.archives-ouvertes.fr/tel-01474501) [[Slides]](/files/phd_slides.pdf)
+[[Thesis]](https://hal.archives-ouvertes.fr/tel-01474501) [[Slides]](/files/2016_phd_defense.pdf)
 
 P. Magron, **Modélisation et simulation temporelle de flûtes de pan Antaras**, MSc Thesis, Université Pierre et Marie Curie, September 2013.
 [[Thesis]](http://www.atiam.ircam.fr/Archives/Stages1213/MAGRON_Paul.pdf)
