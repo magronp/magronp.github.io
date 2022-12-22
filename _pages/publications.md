@@ -17,12 +17,12 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Preprints
 
-O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
-
 L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, submitted in a conference. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/)
 
 
 ## Journals
+
+O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
 
 P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, Data mining and knowledge discovery, Vol. 36, no. 5, pp. 1971-2005, September 2022. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
 
