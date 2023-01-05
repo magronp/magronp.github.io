@@ -86,7 +86,7 @@ P. Magron, J. Le Roux, T. Virtanen, **Consistent anisotropic Wiener filtering fo
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF for robust nonnegative source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01548488) [[Slides]](/files/2017_waspaa_levy.pdf) [[Code and sounds]](/files/2017_levy.zip)
 
-P. Magron, R. Badeau, B. David, **Phase-dependent anisotropic Gaussian model foraudio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2017.
+P. Magron, R. Badeau, B. David, **Phase-dependent anisotropic Gaussian model for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2017.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01416355) [[Poster]](/files/2017_icassp.pdf) [[Sounds]](/demos/icassp17.html)
 
 P. Magron, R. Badeau, B. David, **Complex NMF under phase constraints based on signal modeling: application to audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2016.
