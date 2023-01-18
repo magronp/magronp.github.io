@@ -22,7 +22,7 @@ L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourie
 
 ## Journals
 
-O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
+O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, Signal Processing, Vol. 206, May 2023. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
 
 P. Magron, C. Févotte, **Neural content-aware collaborative filtering for cold-start music recommendation**, Data mining and knowledge discovery, Vol. 36, no. 5, pp. 1971-2005, September 2022. [[Paper]](https://arxiv.org/abs/2102.12369) [[Code]](https://github.com/magronp/ncacf)
 
