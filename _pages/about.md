@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-I am a tenured research scientist (Chargé de Recherche) within the project-team [MULTISPEECH](https://team.inria.fr/multispeech/) (Nancy, France). This is a joint research team of [Inria Nancy](https://www.inria.fr/fr/centre-inria-nancy-grand-est) (my employer), [Université of Lorraine](https://welcome.univ-lorraine.fr/en/) and [CNRS](http://www.cnrs.fr/) within the mixed research unit [LORIA](https://www.loria.fr/en/) (UMR 7503).
+I am a tenured research scientist (Chargé de Recherche) within the project-team [MULTISPEECH](https://team.inria.fr/multispeech/) (Nancy, France). This is a joint research team of [Inria](https://www.inria.fr/fr) (my employer), [Université of Lorraine](https://welcome.univ-lorraine.fr/en/) and [CNRS](http://www.cnrs.fr/) within the mixed research unit [LORIA](https://www.loria.fr/en/) (UMR 7503).
 
 
 Research Interests
