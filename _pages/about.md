@@ -16,11 +16,6 @@ redirect_from:
 
 I am a tenured research scientist (Chargé de Recherche) within the project-team [MULTISPEECH](https://team.inria.fr/multispeech/) (Nancy, France). This is a joint research team of [Inria Nancy](https://www.inria.fr/fr/centre-inria-nancy-grand-est) (my employer), [Université of Lorraine](https://welcome.univ-lorraine.fr/en/) and [CNRS](http://www.cnrs.fr/) within the mixed research unit [LORIA](https://www.loria.fr/en/) (UMR 7503).
 
-M2 internship offer
-======
-
-[Dictionary learning for deep unsupervised speech separation](https://team.inria.fr/multispeech/m2internship-2023-dic_vae/) (with M. Sadeghi). 
-
 
 Research Interests
 ======
