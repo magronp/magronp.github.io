@@ -17,9 +17,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Preprints
 
-P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, submitted in a conference. [[Paper]](https://arxiv.org/abs/2303.01864)
+P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, submitted in a conference. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion)
 
-L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, submitted in a conference. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/)
+L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, submitted in a conference. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/) [[Code]](https://github.com/Louis-Bahrman/Inpainting-Fourier)
 
 
 ## Journals
