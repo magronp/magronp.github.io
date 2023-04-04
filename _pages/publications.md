@@ -71,7 +71,7 @@ P. Magron, T. Virtanen, **Towards complex nonnegative matrix factorization with 
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01779664) [[Slides]](/files/2018_iwaenc_betadiv.pdf) [[Code]](https://github.com/magronp/complex-beta-nmf)
 
 P. Magron, T. Virtanen, **On modeling the STFT phase of audio signals with the von Mises distribution**, Proc. of the International Workshop on Acoustic Signal Enhancement (IWAENC), September 2018.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01763147) [[Poster]](/files/2018_iwaenc_vm.pdf)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01763147) [[Poster]](/files/2018_iwaenc_vm.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener) 
 
 P. Magron, T. Virtanen, **Expectation-maximization algorithms for Itakura-Saito nonnegative matrix factorization**, Proc. of Interspeech, September 2018.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01632082) [[Poster]](/files/2018_interspeech_emisnmf.pdf) [[Code]](https://github.com/magronp/em-isnmf)
@@ -80,16 +80,16 @@ P. Magron, K. Drossos, S. Mimilakis, T. Virtanen, **Reducing interference with p
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01741278) [[Poster]](/files/2018_interspeech_dnnphase.pdf) [[Sounds]](http://arg.cs.tut.fi/demo/phase-madtwinnet) [[Code]](https://github.com/magronp/phase-madtwinnet)
 
 P. Magron, T. Virtanen, **Bayesian anisotropic Gaussian model for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), April 2018.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01632081) [[Slides]](/files/2018_icassp.pdf) [[Sounds]](/demos/icassp18.html)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01632081) [[Slides]](/files/2018_icassp.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener)  [[Sounds]](/demos/icassp18.html)
 
 P. Magron, J. Le Roux, T. Virtanen, **Consistent anisotropic Wiener filtering for audio source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01593126) [[Slides]](/files/2017_waspaa_caw.pdf) [[Code]](/files/2017_waspaa_caw.zip)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01593126) [[Slides]](/files/2017_waspaa_caw.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener) [[Sounds]](/files/2017_waspaa_caw.zip)
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF for robust nonnegative source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01548488) [[Slides]](/files/2017_waspaa_levy.pdf) [[Code and sounds]](/files/2017_levy.zip)
 
 P. Magron, R. Badeau, B. David, **Phase-dependent anisotropic Gaussian model for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2017.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01416355) [[Poster]](/files/2017_icassp.pdf) [[Sounds]](/demos/icassp17.html)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01416355) [[Poster]](/files/2017_icassp.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener)  [[Sounds]](/demos/icassp17.html)
 
 P. Magron, R. Badeau, B. David, **Complex NMF under phase constraints based on signal modeling: application to audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2016.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01248013) [[Slides]](/files/2016_icassp.pdf) [[Code and sounds]](/files/2016_icassp.zip)
