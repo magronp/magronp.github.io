@@ -83,10 +83,10 @@ P. Magron, T. Virtanen, **Bayesian anisotropic Gaussian model for audio source s
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01632081) [[Slides]](/files/2018_icassp.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener)  [[Sounds]](/demos/icassp18.html)
 
 P. Magron, J. Le Roux, T. Virtanen, **Consistent anisotropic Wiener filtering for audio source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01593126) [[Slides]](/files/2017_waspaa_caw.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener) [[Sounds]](/files/2017_waspaa_caw.zip)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01593126) [[Slides]](/files/2017_waspaa_caw.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener)
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF for robust nonnegative source separation**, Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01548488) [[Slides]](/files/2017_waspaa_levy.pdf) [[Code and sounds]](/files/2017_levy.zip)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01548488) [[Slides]](/files/2017_waspaa_levy.pdf) [[Code]](https://github.com/magronp/levy-nmf) [[Sounds]](/files/2017_levynmf_sounds.zip)
 
 P. Magron, R. Badeau, B. David, **Phase-dependent anisotropic Gaussian model for audio source separation**, Proc. of the IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), March 2017.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01416355) [[Poster]](/files/2017_icassp.pdf) [[Code]](https://github.com/magronp/anisotropic-wiener)  [[Sounds]](/demos/icassp17.html)
@@ -112,7 +112,7 @@ P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis o
 ## National Conference (in French)
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF : un modèle robuste de séparation de sources non-négatives**, Actes du XXVIe Colloque GRETSI, September 2017.
-[[Paper]](https://hal.archives-ouvertes.fr/hal-01540484) [[Slides]](/files/2017_gretsi.pdf) [[Code]](/files/2017_levy.zip)
+[[Paper]](https://hal.archives-ouvertes.fr/hal-01540484) [[Slides]](/files/2017_gretsi.pdf) [[Code]](https://github.com/magronp/levy-nmf) [[Sounds]](/files/2017_levynmf_sounds.zip)
 
 ## Technical reports
 
