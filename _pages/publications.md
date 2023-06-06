@@ -15,13 +15,6 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-## Preprints
-
-P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, submitted in a conference. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion)
-
-L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, submitted in a conference. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/) [[Code]](https://github.com/Louis-Bahrman/Inpainting-Fourier)
-
-
 ## Journals
 
 O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, Signal Processing, Vol. 206, May 2023. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
@@ -45,6 +38,10 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 [[Paper]](https://arxiv.org/abs/1608.01953) [[Sounds]](/demos/taslp18_puiter.html) [[Code]](https://github.com/magronp/pu-iter)
 
 ## International Conferences
+
+P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion) [[Supplementary]](/files/2023specinv_sup.pdf)
+
+L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/) [[Code]](https://github.com/Louis-Bahrman/Inpainting-Fourier) [[Supplementary]](/files/2023inpainting_sup.pdf)
 
 M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Proc. of Interspeech, September 2022. [[Paper]](https://arxiv.org/abs/2203.15758) [[Code]](https://gitlab.inria.fr/smostafa/sdm-vae) [[Poster]](/files/2022_interspeech.pdf)
 
