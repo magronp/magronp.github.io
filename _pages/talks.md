@@ -15,6 +15,9 @@ author_profile: true
 
 The talks and presentations given in conferences and workshops, along with the corresponding material (slides or posters) are listed in the [Publications](/pages/publications) page.
 
+**Towards deep phase recovery for audio source separation**
+* Audio Research Group - Tampere University (Tampere, Finland), August 2023. [[Slides]](/files/2023_tuni.pdf)
+  
 **Phase recovery for audio demixing: contributions and perspectives**
 * Neural DSP Technologies (Helsinki, Finland), August 2022. [[Slides]](/files/2022_neuraldsp.pdf)
 
