@@ -39,9 +39,9 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 ## International Conferences
 
-P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion) [[Supplementary]](/files/2023specinv_sup.pdf)
+P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion) [[Slides]](/files/2023_eusipco_spinv_slides.pdf)  [[Supplementary]](/files/2023specinv_sup.pdf)
 
-L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/) [[Code]](https://github.com/Louis-Bahrman/Inpainting-Fourier) [[Supplementary]](/files/2023inpainting_sup.pdf)
+L. Bahrman, M. Krémé, P. Magron, A. Deleforge, **Signal Inpainting from Fourier Magnitudes**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://hal.archives-ouvertes.fr/hal-03832480/) [[Code]](https://github.com/Louis-Bahrman/Inpainting-Fourier) [[Slides]](/files/2023_eusipco_inpainting_slides.pdf) [[Supplementary]](/files/2023inpainting_sup.pdf)
 
 M. Sadeghi, P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Proc. of Interspeech, September 2022. [[Paper]](https://arxiv.org/abs/2203.15758) [[Code]](https://gitlab.inria.fr/smostafa/sdm-vae) [[Poster]](/files/2022_interspeech.pdf)
 
