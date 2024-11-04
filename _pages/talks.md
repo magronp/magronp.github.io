@@ -15,7 +15,7 @@ author_profile: true
 
 The talks and presentations given in conferences and workshops, along with the corresponding material (slides or posters) are listed in the [Publications](/pages/publications) page.
 
-**Demixing sounds with AI: Towards Deep Phase Recovery**
+**Demixing sounds with AI: towards deep phase recovery**
 * Observatoire Astronomique de Strasbourg (Strasbourg, France), November 2024. [[Slides]](/files/2024_obas.pdf)
 
 **Towards deep phase recovery for audio source separation**
