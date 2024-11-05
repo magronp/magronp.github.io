@@ -116,6 +116,11 @@ P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis o
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF : un modèle robuste de séparation de sources non-négatives**, Actes du XXVIe Colloque GRETSI, September 2017.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01540484) [[Slides]](/files/2017_gretsi.pdf) [[Code]](https://github.com/magronp/levy-nmf) [[Sounds]](/files/2017_levynmf_sounds.zip)
 
+## Misc
+
+P. Magron, **Reproducing and improving band-split RNN for music separation**, 2024.
+[[Code]](https://github.com/magronp/bsrnn) [[Weigths]](https://zenodo.org/records/13903584)
+
 ## Technical reports
 
 P. Magron, R. Badeau, A. Liutkus, **Generalized Wiener filtering for positive alpha-stable random variables**, Télécom ParisTech technical report, June 2016.
