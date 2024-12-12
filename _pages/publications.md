@@ -15,12 +15,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-## Preprints
-
-N.-E. Monir, P. Magron, R. Serizel, **A Phoneme-Scale Assessment of Multichannel Speech Enhancement Algorithms**, submitted in a journal. [[Paper]](https://arxiv.org/abs/2401.13548) [[Code]](https://github.com/Nasseredd/SE-Ph-Eval/)
-
-
 ## Journals
+
+N.-E. Monir, P. Magron, R. Serizel, **A Phoneme-Scale Assessment of Multichannel Speech Enhancement Algorithms**, Trends in Hearing, Vol. 28, December 2024. [[Paper]](https://journals.sagepub.com/doi/10.1177/23312165241292205) [[Code]](https://github.com/Nasseredd/SE-Ph-Eval/)
 
 O. Mokrý, P. Magron, T. Oberlin, C. Févotte, **Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization**, Signal Processing, Vol. 206, May 2023. [[Paper]](https://arxiv.org/abs/2206.13768) [[Code]](https://github.com/ondrejmokry/InpaintingNMF)
 
