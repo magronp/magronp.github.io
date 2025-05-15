@@ -15,6 +15,9 @@ author_profile: true
 
 The talks and presentations given in conferences and workshops, along with the corresponding material (slides or posters) are listed in the [Publications](/pages/publications) page.
 
+**Machine learning for music separation: Combining data-driven models and expert knowledge**
+* IRMA (Strasbourg, France), May 2025. [[Slides]](/files/2025_smir.pdf)
+
 **Demixing sounds with AI: towards deep phase recovery**
 * Observatoire Astronomique de Strasbourg (Strasbourg, France), November 2024. [[Slides]](/files/2024_obas.pdf)
 
