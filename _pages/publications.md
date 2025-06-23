@@ -15,6 +15,10 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
+## Preprints
+
+N.-E. Monir, P. Magron, R. Serizel, **Frequency-Weighted Training Losses for Phoneme-Level DNN-based Speech Enhancement**, submitted to a conference 2025.
+
 ## Journals
 
 N.-E. Monir, P. Magron, R. Serizel, **A Phoneme-Scale Assessment of Multichannel Speech Enhancement Algorithms**, Trends in Hearing, Vol. 28, December 2024. [[Paper]](https://journals.sagepub.com/doi/10.1177/23312165241292205) [[Code]](https://github.com/Nasseredd/SE-Ph-Eval/)
@@ -40,6 +44,8 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 [[Paper]](https://arxiv.org/abs/1608.01953) [[Sounds]](/demos/taslp18_puiter.html) [[Code]](https://github.com/magronp/pu-iter)
 
 ## International Conferences
+
+N.-E. Monir, P. Magron, R. Serizel, **Evaluating Multichannel Speech Enhancement Algorithms at the Phoneme Scale Across Genders**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2025. [[Paper]](https://journals.sagepub.com/doi/10.1177/23312165241292205) [[Code]](https://github.com/Nasseredd/mcse-phg)
 
 P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion) [[Slides]](/files/2023_eusipco_spinv_slides.pdf)  [[Supplementary]](/files/2023specinv_sup.pdf)
 
@@ -112,11 +118,6 @@ P. de la Cuadra, P. Magron, R. Auvray, F. Meneses, B. Fabre, **Sound synthesis o
 
 P. Magron, R. Badeau, A. Liutkus, **Lévy NMF : un modèle robuste de séparation de sources non-négatives**, Actes du XXVIe Colloque GRETSI, September 2017.
 [[Paper]](https://hal.archives-ouvertes.fr/hal-01540484) [[Slides]](/files/2017_gretsi.pdf) [[Code]](https://github.com/magronp/levy-nmf) [[Sounds]](/files/2017_levynmf_sounds.zip)
-
-## Misc
-
-P. Magron, **Reproducing and improving band-split RNN for music separation**, 2024.
-[[Code]](https://github.com/magronp/bsrnn) [[Weigths]](https://zenodo.org/records/13903584)
 
 ## Technical reports
 
