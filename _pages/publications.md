@@ -15,10 +15,6 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-## Preprints
-
-N.-E. Monir, P. Magron, R. Serizel, **Frequency-Weighted Training Losses for Phoneme-Level DNN-based Speech Enhancement**, submitted to a conference 2025.
-
 ## Journals
 
 N.-E. Monir, P. Magron, R. Serizel, **A Phoneme-Scale Assessment of Multichannel Speech Enhancement Algorithms**, Trends in Hearing, Vol. 28, December 2024. [[Paper]](https://journals.sagepub.com/doi/10.1177/23312165241292205) [[Code]](https://github.com/Nasseredd/SE-Ph-Eval/)
@@ -45,7 +41,11 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 ## International Conferences
 
-N.-E. Monir, P. Magron, R. Serizel, **Evaluating Multichannel Speech Enhancement Algorithms at the Phoneme Scale Across Genders**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2025. [[Paper]](https://journals.sagepub.com/doi/10.1177/23312165241292205) [[Code]](https://github.com/Nasseredd/mcse-phg)
+C. Cui, P. Magron, M. Sadeghi, E. Vincent, **Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [Paper] [[Code]](https://github.com/can-cui/data-invariant-beamforming-mc-asr)
+
+N.-E. Monir, P. Magron, R. Serizel, **Frequency-Weighted Training Losses for Phoneme-Level DNN-based Speech Enhancement**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [[Paper]](https://arxiv.org/abs/2506.18714) [[Code]](https://github.com/Nasseredd/fw-se-loss)
+
+N.-E. Monir, P. Magron, R. Serizel, **Evaluating Multichannel Speech Enhancement Algorithms at the Phoneme Scale Across Genders**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2025. [[Paper]](https://arxiv.org/abs/2506.18691) [[Code]](https://github.com/Nasseredd/mcse-phg)
 
 P. Magron, T. Virtanen, **Spectrogram Inversion for Audio Source Separation via Consistency, Mixing, and Magnitude Constraints**, Proc. of the European Signal Processing Conference (EUSIPCO), September 2023. [[Paper]](https://arxiv.org/abs/2303.01864) [[Code]](https://github.com/magronp/spectrogram-inversion) [[Slides]](/files/2023_eusipco_spinv_slides.pdf)  [[Supplementary]](/files/2023specinv_sup.pdf)
 
