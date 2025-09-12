@@ -13,24 +13,25 @@ author_profile: true
 
 {% include base_path %}
 
-The talks and presentations given in conferences and workshops, along with the corresponding material (slides or posters) are listed in the [Publications](/pages/publications) page.
+The talks given in conferences to present a paper are listed in the [Publications](/pages/publications) page, which also provides the corresponding material (slides / posters).
+
+## Plenary talks in workhops
+
+**The rise, fall, and resurgence of NMF for audio source separation**
+* Workshop on Low-Rank Models and Applications (LRMA), September 2025. [[Slides]](/files/2025_lrma.pdf)
+
+## Invited seminars
 
 **Machine learning for music separation: Combining data-driven models and expert knowledge**
 * IRMA (Strasbourg, France), May 2025. [[Slides]](/files/2025_smir.pdf)
 
-**Demixing sounds with AI: towards deep phase recovery**
-* Observatoire Astronomique de Strasbourg (Strasbourg, France), November 2024. [[Slides]](/files/2024_obas.pdf)
-
 **Towards deep phase recovery for audio source separation**
+* Observatoire Astronomique de Strasbourg (Strasbourg, France), November 2024. [[Slides]](/files/2024_obas.pdf)
 * Audio Research Group - Tampere University (Tampere, Finland), August 2023. [[Slides]](/files/2023_tuni.pdf)
   
-**Phase recovery for audio demixing: contributions and perspectives**
+**Phase-aware audio source separation: contributions and perspectives**
 * Neural DSP Technologies (Helsinki, Finland), August 2022. [[Slides]](/files/2022_neuraldsp.pdf)
-
-**Contributions to phase-aware audio source separation**
 * ADASP group - Télécom Paris (Paris, France), June 2022. [[Slides]](/files/2022_telecom.pdf)
-
-**Phase-aware audio source separation**
 * Signal Processing research group - Hamburg University (Hamburg, Germany), May 2021. [[Slides]](/files/2021_sp_hamburg.pdf)
 
 **Complex-valued and hybrid models for audio processing** 
@@ -43,5 +44,3 @@ The talks and presentations given in conferences and workshops, along with the c
 **STFT phase recovery based on sinusoidal modeling for audio source separation**
 * Signal & Communications group - IRIT (Toulouse, France), September 2017. [[Slides]](/files/2017_irit_toulouse.pdf)
 
-**Lévy NMF for robust nonnegative source separation**
-* GRETSI summer school in Image and Signal processing, (Peyresq, France), July 2016. Slides adapted from the [GRETSI](/files/2017_gretsi.pdf) and [WASPAA](/files/2017_waspaa_levy.pdf) 2017 talks.
