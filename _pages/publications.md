@@ -41,7 +41,7 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 ## International Conferences
 
-C. Cui, P. Magron, M. Sadeghi, E. Vincent, **Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [Paper] [[Code]](https://github.com/can-cui/data-invariant-beamforming-mc-asr)
+C. Cui, P. Magron, M. Sadeghi, E. Vincent, **Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [Paper](https://arxiv.org/pdf/2509.10234) [[Code]](https://github.com/can-cui/data-invariant-beamforming-mc-asr)
 
 N.-E. Monir, P. Magron, R. Serizel, **Frequency-Weighted Training Losses for Phoneme-Level DNN-based Speech Enhancement**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [[Paper]](https://arxiv.org/abs/2506.18714) [[Code]](https://github.com/Nasseredd/fw-se-loss)
 
