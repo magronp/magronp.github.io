@@ -15,6 +15,11 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 {% include base_path %}
 
+## Preprints
+
+M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, under review, 2025. [[Paper]](https://arxiv.org/abs/2511.07075)
+
+
 ## Journals
 
 N.-E. Monir, P. Magron, R. Serizel, **A Phoneme-Scale Assessment of Multichannel Speech Enhancement Algorithms**, Trends in Hearing, Vol. 28, December 2024. [[Paper]](https://journals.sagepub.com/doi/10.1177/23312165241292205) [[Code]](https://github.com/Nasseredd/SE-Ph-Eval/)
