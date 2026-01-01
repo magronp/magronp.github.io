@@ -32,3 +32,4 @@ Charles Franchi, **Mathematical morphology and machine learning for computationa
 Louis Lalay, **Dictionary learning for deep speech separation**, co-supervised with M. Sadeghi, 2023.
 
 Louis Bahrman, **Repairing audio signals using compact phase-aware models**, co-supervised with A. Deleforge, 2022.
+
