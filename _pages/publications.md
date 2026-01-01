@@ -11,9 +11,9 @@ author_profile: true
 }
 </style>
 
-You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=67-Uh0cAAAAJ).
-
 {% include base_path %}
+
+You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=67-Uh0cAAAAJ).
 
 ## Preprints
 
