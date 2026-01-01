@@ -23,7 +23,7 @@ The talks given in conferences to present a paper are listed in the [Publication
 ## Presentations in Workshops
 
 **Modeling and Predicting the Dynamics of Globular Clusters with Deep Learning**
-* Journées ASNUM, December 2025. [[Slides]](https://asnum2025.sciencesconf.org/data/program/asnum2025_magron.pdf)
+* Journées ASNUM (Grenoble, France), December 2025. [[Slides]](https://asnum2025.sciencesconf.org/data/program/asnum2025_magron.pdf)
 
 ## Invited seminars
 
