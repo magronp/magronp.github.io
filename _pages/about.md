@@ -41,4 +41,4 @@ From 2013 to 2016, I was a Ph.D. student at Télécom ParisTech (Paris, France) 
 From 2017 to 2019, I was a postdoctoral researcher at Tampere University (Tampere, Finland) within the [Audio Research Group](http://arg.cs.tut.fi/), under the supervision of [Tuomas Virtanen](http://www.cs.tut.fi/%7Etuomasv/).
 From 2019 to 2021, I was a postdoctoral researcher at the [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/), within the [Signals and Communications](http://sc.enseeiht.fr/) group, located in Toulouse, France. I worked under the supervision of [Cédric Févotte](https://www.irit.fr/%7ECedric.Fevotte/) as part of the ERC-funded project [FACTORY](http://projectfactory.irit.fr/).
 
-Here is my CV in [French](/files/cv_fr.pdf) and in [English](/files/cv_en.pdf) (March 2024).
+Here is my CV in [French](/files/cv_fr.pdf) and in [English](/files/cv_en.pdf) (January 2026).
