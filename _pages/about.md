@@ -20,9 +20,18 @@ I am a tenured research scientist (*Chargé de Recherche*) within the project-te
 Research Interests
 ======
 
-* Audio, speech, and music signal processing: sound source separation, speech enhancement, audio restoration.
+From a methodology standpoint, my research is devoted to signal processing and machine learning.
+
+* Deep learning, nonnegative matrix factorization (NMF), statistical models for NMF.
+* Hybrid NMF / deep learning models.
 * Phase-aware signal processing: phase recovery, phase-aware probabilistic modelling.
-* Machine learning applied to audio: nonnegative matrix factorization (NMF), statistical models for NMF, deep learning.
+
+In terms of applications, I am interested in astronomy and audio processing (my original research domain).
+
+* Astronomy imaging: globular cluster analysis with deep learning
+* Audio processing: music source separation, speech enhancement.
+* Previously: music recommendation, audio restoration.
+
 
 Short Bio
 ======
