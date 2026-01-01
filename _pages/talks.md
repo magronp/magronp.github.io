@@ -15,10 +15,15 @@ author_profile: true
 
 The talks given in conferences to present a paper are listed in the [Publications](/pages/publications) page, which also provides the corresponding material (slides / posters).
 
-## Plenary talks in workhops
+## Keynotes
 
 **The rise, fall, and resurgence of NMF for audio source separation**
 * Workshop on Low-Rank Models and Applications (LRMA), September 2025. [[Slides]](/files/2025_lrma.pdf)
+
+## Presentations in Workshops
+
+**Modeling and Predicting the Dynamics of Globular Clusters with Deep Learning**
+* Journées ASNUM, December 2025. [[Slides]](https://asnum2025.sciencesconf.org/data/program/asnum2025_magron.pdf)
 
 ## Invited seminars
 
