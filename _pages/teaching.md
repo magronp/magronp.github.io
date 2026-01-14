@@ -18,13 +18,13 @@ author_profile: true
 I am the coordinator for the "Neural Networks and Deep Learning" course at [Université de Lorraine](https://www.univ-lorraine.fr/), in the [Natural Language Processing](https://idmc.univ-lorraine.fr/courses/master-degree-2-nlp/) (NLP) M2 program.
 
 Course outline:
-- Introduction and Feedforward Neural Networks
-- Training Neural Networks
-- Advanced Training and Engineering
-- Convolutional Networks
-- Visualition and Recurrent Networks (1)
-- Recurrent Networks (2) and Attention
-- Generative Models
+1. Introduction and Feedforward Neural Networks
+2. Training Neural Networks
+3. Advanced Training and Engineering
+4. Convolutional Neural Networks
+5. Recurrent Neural Networks
+6. Attention, Transformers, and Visualization
+7. Generative Models
 
 Resources: [lecture slides](https://mybox.inria.fr/d/694c3646bc574f95aa53/) and [practical notebooks](https://mybox.inria.fr/d/9403aa37e7a24e4882c0/).
 
