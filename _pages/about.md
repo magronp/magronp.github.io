@@ -26,9 +26,9 @@ From a methodology standpoint, my research is devoted to signal processing and m
 * Hybrid NMF / deep learning models.
 * Phase-aware signal processing: phase recovery, phase-aware probabilistic modelling.
 
-In terms of applications, I am interested in astronomy and audio processing (my original research domain).
+In terms of applications, I am interested in astronomy and audio processing.
 
-* Astronomy imaging: globular cluster analysis with deep learning
+* Astronomy imaging: globular cluster analysis with deep learning.
 * Audio processing: music source separation, speech enhancement.
 * Previously: music recommendation, audio restoration.
 
