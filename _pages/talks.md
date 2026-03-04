@@ -20,12 +20,10 @@ The talks given in conferences to present a paper are listed in the [Publication
 **The rise, fall, and resurgence of NMF for audio source separation**
 * Workshop on Low-Rank Models and Applications (Mons, Belgium), September 2025. [[Slides]](/files/2025_lrma.pdf)
 
-## Presentations in Workshops
+## Invited Seminars
 
 **Modeling and Predicting the Dynamics of Globular Clusters with Deep Learning**
-* Journées ASNUM (Grenoble, France), December 2025. [[Slides]](https://asnum2025.sciencesconf.org/data/program/asnum2025_magron.pdf)
-
-## Invited Seminars
+* Shanghai Astronomical Observatory (Shanghai, China), March 2026. [[Slides]](/files/2026_shao.pdf)
 
 **Machine learning for music separation: Combining data-driven models and expert knowledge**
 * University of Strasbourg (Strasbourg, France), May 2025. [[Slides]](/files/2025_smir.pdf)
@@ -49,3 +47,8 @@ The talks given in conferences to present a paper are listed in the [Publication
 **STFT phase recovery based on sinusoidal modeling for audio source separation**
 * IRIT (Toulouse, France), September 2017. [[Slides]](/files/2017_irit_toulouse.pdf)
 
+
+## Presentations in Workshops
+
+**Modeling and Predicting the Dynamics of Globular Clusters with Deep Learning**
+* Journées ASNUM (Grenoble, France), December 2025. [[Slides]](https://asnum2025.sciencesconf.org/data/program/asnum2025_magron.pdf)
