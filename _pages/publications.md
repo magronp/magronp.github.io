@@ -17,7 +17,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Preprints
 
-M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, under review, 2025. [[Paper]](https://arxiv.org/abs/2511.07075)
+P. Magron, R. Serizel, C. Douwes, **The Costs of Reproducibility in Music Separation Research: a Replication of Band-Split RNN**, under review, 2026. [[Paper]](https://arxiv.org/abs/2603.09187) [[Code]](https://github.com/magronp/bsrnn/)
+
+M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, under review, 2026. [[Paper]](https://arxiv.org/abs/2511.07075)
 
 
 ## Journals
