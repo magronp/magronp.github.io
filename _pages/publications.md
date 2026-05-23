@@ -17,9 +17,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Preprints
 
-P. Magron, R. Serizel, C. Douwes, **The Costs of Reproducibility in Music Separation Research: a Replication of Band-Split RNN**, under review, 2026. [[Paper]](https://arxiv.org/abs/2603.09187) [[Code]](https://github.com/magronp/bsrnn/)
-
-M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, under review, 2026. [[Paper]](https://arxiv.org/abs/2511.07075)
+P. Magron, R. Serizel, C. Douwes, **The Costs of Reproducibility in Music Separation Research: a Replication of Band-Split RNN**, 2026. [[Paper]](https://arxiv.org/abs/2603.09187) [[Code]](https://github.com/magronp/bsrnn/)
 
 
 ## Journals
@@ -47,6 +45,8 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 [[Paper]](https://arxiv.org/abs/1608.01953) [[Sounds]](/demos/taslp18_puiter.html) [[Code]](https://github.com/magronp/pu-iter)
 
 ## International Conferences
+
+M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, under review, 2026. [[Paper]](https://arxiv.org/abs/2511.07075) [[Code]](https://github.com/mishramayank1903/Metric-analysis-for-S5)
 
 C. Cui, P. Magron, M. Sadeghi, E. Vincent, **Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [[Paper]](https://arxiv.org/pdf/2509.10234) [[Slides]](/files/2025_mmsp.pdf) [[Code]](https://github.com/can-cui/data-invariant-beamforming-mc-asr)
 
