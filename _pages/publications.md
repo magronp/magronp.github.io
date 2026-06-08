@@ -46,6 +46,8 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 ## International Conferences
 
+O. Dufour, P. Magron, M. Rouvier, E. Vincent, **A Large-Scale Per-Speaker Analysis of Re-identification Risk in Speech Anonymization**, Proc. of Interspeech, September 2026. [[Paper]](https://arxiv.org/abs/2606.07210v1) [[Code]](https://github.com/OraneD/Speaker-Linkability)
+
 M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, Proc. of the European Signal Processing Conference (EUSIPCO), August 2026. [[Paper]](https://arxiv.org/abs/2511.07075) [[Code]](https://github.com/mishramayank1903/Metric-analysis-for-S5)
 
 C. Cui, P. Magron, M. Sadeghi, E. Vincent, **Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**, Proc. of the IEEE International Workshop on Multimedia Signal Processing (MMSP), September 2025. [[Paper]](https://arxiv.org/pdf/2509.10234) [[Slides]](/files/2025_mmsp.pdf) [[Code]](https://github.com/can-cui/data-invariant-beamforming-mc-asr)
