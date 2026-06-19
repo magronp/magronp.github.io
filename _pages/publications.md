@@ -46,6 +46,8 @@ P. Magron, R. Badeau, B. David, **Model-based STFT phase recovery for audio sour
 
 ## International Conferences
 
+N.-E. Monir, P. Magron, R. Serizel, **Time-Frequency Weighted Losses for Phoneme Reconstruction in DNN-Based Speech Enhancement**, Proc. of Interspeech, September 2026. [[Paper]](https://hal.science/hal-05663333) [[Code]](https://github.com/Nasseredd/fw-se-loss)
+
 O. Dufour, P. Magron, M. Rouvier, E. Vincent, **A Large-Scale Per-Speaker Analysis of Re-identification Risk in Speech Anonymization**, Proc. of Interspeech, September 2026. [[Paper]](https://arxiv.org/abs/2606.07210v1) [[Code]](https://github.com/OraneD/Speaker-Linkability)
 
 M. Mishra, P. Magron, R. Serizel, **Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**, Proc. of the European Signal Processing Conference (EUSIPCO), August 2026. [[Paper]](https://arxiv.org/abs/2511.07075) [[Code]](https://github.com/mishramayank1903/Metric-analysis-for-S5)
