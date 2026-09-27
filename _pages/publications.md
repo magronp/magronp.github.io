@@ -17,6 +17,11 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Preprints
 
+A. Marklund, P. Bianchini, P. Magron, A. Askar, A. Lançon, **Estimating properties of semi-resolved globular clusters in M31:
+A forward modelling and deep learning framework**, 2026. [[Paper]](https://magronp.github.io/files/pidocv2.pdf)
+
+P. Magron, R. Serizel, C. Douwes, **Investigating the Performance and Energy Costs of Replicating Band-Split RNN for Music Source Separation**, 2026. [[Paper]](https://arxiv.org/abs/2609.21918) [[Code]](https://github.com/magronp/bsrnn/)
+
 P. Magron, R. Serizel, C. Douwes, **The Costs of Reproducibility in Music Separation Research: a Replication of Band-Split RNN**, 2026. [[Paper]](https://arxiv.org/abs/2603.09187) [[Code]](https://github.com/magronp/bsrnn/)
 
 
