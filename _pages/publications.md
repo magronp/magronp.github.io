@@ -18,7 +18,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 ## Preprints
 
 A. Marklund, P. Bianchini, P. Magron, A. Askar, A. Lançon, **Estimating properties of semi-resolved globular clusters in M31:
-A forward modelling and deep learning framework**, 2026. [[Paper]](https://magronp.github.io/files/pidocv2.pdf)
+A forward modelling and deep learning framework**, 2026. [[Paper]](https://magronp.github.io/files/pidocv2.pdf) [[Code]](https://github.com/arnmarklund/pidoc)
+
+M. Mishra, P. Magron, R. Serizel, **Lightweight Systems for Spatial Semantic Segmentation of Sound Scenes**, 2026. [[Paper]](https://arxiv.org/abs/2610.12693) [[Code]](https://github.com/mishramayank1903/Lightweight-systems-for-S5)
 
 C. Douwes, P. Magron, R. Serizel, **Exposing the Cost of Deep Learning Audio Development**, 2026. [[Paper]](https://arxiv.org/abs/2610.01619) [[Code]](https://github.com/magronp/g5k_energy/)
 
